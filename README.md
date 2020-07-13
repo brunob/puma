@@ -5,5 +5,5 @@ The PUMA pipeline (https://github.com/OllyButters/puma/) takes a list of publica
 
 | Name   | Source of list                                  | Link |
 | ---    | ---                                             | --- | 
-| ALSPAC | https://wellcomeopenresearch.org/articles/3-161 | | 
+| [ALSPAC](http://www.bristol.ac.uk/alspac/researchers/publications/) | (https://wellcomeopenresearch.org/articles/3-161) | (alspac) | 
 | HDRUK  | | |
