@@ -1,1 +1,1 @@
-var papers =([['Year', 'Number of papers'],['2014',1],]);var citations =([['Year', 'Number of Citations'],['2014',48],]);
+var papers =([['Year', 'Number of papers'],['2009',1],['2010',2],['2011',0],['2012',2],['2013',3],['2014',2],['2015',3],]);var citations =([['Year', 'Number of Citations'],['2009',333],['2010',134],['2011',0],['2012',129],['2013',86],['2014',60],['2015',75],]);
