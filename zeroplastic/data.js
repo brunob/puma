@@ -1,0 +1,1 @@
+var cumulative =([['Year', 'Number of papers'],['2018',9],['2019',1726],['2020',1738],]);var papers_per_year=([['Year', 'Number of papers'],['2018',9],['2019',1717],['2020',12],]);
